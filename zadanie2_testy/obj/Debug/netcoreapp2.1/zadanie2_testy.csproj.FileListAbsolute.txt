@@ -1,0 +1,14 @@
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_testy.deps.json
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_testy.runtimeconfig.json
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_testy.runtimeconfig.dev.json
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_testy.dll
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_testy.pdb
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_core.dll
+C:\Users\Maciek\source\zadanie2_testy\bin\Debug\netcoreapp2.1\zadanie2_core.pdb
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.csprojAssemblyReference.cache
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.AssemblyInfo.cs
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.csproj.CopyComplete
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.dll
+C:\Users\Maciek\source\zadanie2_testy\obj\Debug\netcoreapp2.1\zadanie2_testy.pdb

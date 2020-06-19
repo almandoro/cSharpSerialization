@@ -1,0 +1,11 @@
+C:\Users\Maciek\source\serializacja_NoSQL\bin\Debug\netcoreapp2.1\serializacja_NoSQL.deps.json
+C:\Users\Maciek\source\serializacja_NoSQL\bin\Debug\netcoreapp2.1\serializacja_NoSQL.runtimeconfig.json
+C:\Users\Maciek\source\serializacja_NoSQL\bin\Debug\netcoreapp2.1\serializacja_NoSQL.runtimeconfig.dev.json
+C:\Users\Maciek\source\serializacja_NoSQL\bin\Debug\netcoreapp2.1\serializacja_NoSQL.dll
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.AssemblyInfo.cs
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.csprojAssemblyReference.cache
+C:\Users\Maciek\source\serializacja_NoSQL\bin\Debug\netcoreapp2.1\serializacja_NoSQL.pdb
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.dll
+C:\Users\Maciek\source\serializacja_NoSQL\obj\Debug\netcoreapp2.1\serializacja_NoSQL.pdb

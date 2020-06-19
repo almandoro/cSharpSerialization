@@ -1,0 +1,11 @@
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.AssemblyInfo.cs
+C:\Users\Maciek\source\serializacja_YAML\bin\Debug\netcoreapp2.1\serializacja_YAML.deps.json
+C:\Users\Maciek\source\serializacja_YAML\bin\Debug\netcoreapp2.1\serializacja_YAML.runtimeconfig.json
+C:\Users\Maciek\source\serializacja_YAML\bin\Debug\netcoreapp2.1\serializacja_YAML.runtimeconfig.dev.json
+C:\Users\Maciek\source\serializacja_YAML\bin\Debug\netcoreapp2.1\serializacja_YAML.dll
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.csprojAssemblyReference.cache
+C:\Users\Maciek\source\serializacja_YAML\bin\Debug\netcoreapp2.1\serializacja_YAML.pdb
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.dll
+C:\Users\Maciek\source\serializacja_YAML\obj\Debug\netcoreapp2.1\serializacja_YAML.pdb

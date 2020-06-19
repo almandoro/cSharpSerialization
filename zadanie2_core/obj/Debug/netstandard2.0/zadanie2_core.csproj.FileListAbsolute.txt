@@ -1,0 +1,8 @@
+C:\Users\Maciek\source\zadanie2_core\bin\Debug\netstandard2.0\zadanie2_core.deps.json
+C:\Users\Maciek\source\zadanie2_core\bin\Debug\netstandard2.0\zadanie2_core.dll
+C:\Users\Maciek\source\zadanie2_core\bin\Debug\netstandard2.0\zadanie2_core.pdb
+C:\Users\Maciek\source\zadanie2_core\obj\Debug\netstandard2.0\zadanie2_core.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\zadanie2_core\obj\Debug\netstandard2.0\zadanie2_core.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\zadanie2_core\obj\Debug\netstandard2.0\zadanie2_core.AssemblyInfo.cs
+C:\Users\Maciek\source\zadanie2_core\obj\Debug\netstandard2.0\zadanie2_core.dll
+C:\Users\Maciek\source\zadanie2_core\obj\Debug\netstandard2.0\zadanie2_core.pdb

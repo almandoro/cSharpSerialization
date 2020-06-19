@@ -1,0 +1,14 @@
+rodzaj: Lista zamowien
+data: 2007-08-06T00:00:00.0000000
+klient:
+  imie: Maciej
+  nazwisko: Marcinkowski
+przedmioty:
+- id: A4786
+  opis: Marlboro Gold (miękka)
+  cena: 17.47
+  ilosc: 4
+- id: E1628
+  opis: Specjal Jasny Pełny
+  cena: 2.57
+  ilosc: 1

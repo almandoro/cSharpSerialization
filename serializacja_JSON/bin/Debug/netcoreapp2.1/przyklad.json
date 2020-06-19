@@ -1,0 +1,16 @@
+[
+  {
+    "Marka": "Opel",
+    "Model": "Astra G",
+    "Kolor": "czarny",
+    "Nadwozie": "Coupe",
+    "Moc": 200
+  },
+  {
+    "Marka": "Alfa",
+    "Model": "159",
+    "Kolor": "czerwony",
+    "Nadwozie": "Laweta",
+    "Moc": 90
+  }
+]

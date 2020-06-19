@@ -1,0 +1,11 @@
+C:\Users\Maciek\source\serializacja_SQL\bin\Debug\netcoreapp2.1\serializacja_SQL.deps.json
+C:\Users\Maciek\source\serializacja_SQL\bin\Debug\netcoreapp2.1\serializacja_SQL.runtimeconfig.json
+C:\Users\Maciek\source\serializacja_SQL\bin\Debug\netcoreapp2.1\serializacja_SQL.runtimeconfig.dev.json
+C:\Users\Maciek\source\serializacja_SQL\bin\Debug\netcoreapp2.1\serializacja_SQL.dll
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.AssemblyInfoInputs.cache
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.AssemblyInfo.cs
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.csprojAssemblyReference.cache
+C:\Users\Maciek\source\serializacja_SQL\bin\Debug\netcoreapp2.1\serializacja_SQL.pdb
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.dll
+C:\Users\Maciek\source\serializacja_SQL\obj\Debug\netcoreapp2.1\serializacja_SQL.pdb

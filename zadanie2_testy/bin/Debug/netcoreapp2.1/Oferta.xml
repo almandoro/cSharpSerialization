@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTowar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Towar Id="1">
+    <NazwaTowaru>Jabłka</NazwaTowaru>
+    <CenaDetaliczna>2.5</CenaDetaliczna>
+  </Towar>
+  <Towar Id="3">
+    <NazwaTowaru>Śliwki</NazwaTowaru>
+    <CenaDetaliczna>3.2</CenaDetaliczna>
+  </Towar>
+  <Towar Id="4">
+    <NazwaTowaru>Truskawki</NazwaTowaru>
+    <CenaDetaliczna>3.8</CenaDetaliczna>
+  </Towar>
+</ArrayOfTowar>

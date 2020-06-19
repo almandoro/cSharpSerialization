@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maciek\\source\\serializacja_NoSQL\\serializacja_NoSQL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maciek\\source\\serializacja_NoSQL\\serializacja_NoSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maciek\\source\\serializacja_NoSQL\\serializacja_NoSQL.csproj",
+        "projectName": "serializacja_NoSQL",
+        "projectPath": "C:\\Users\\Maciek\\source\\serializacja_NoSQL\\serializacja_NoSQL.csproj",
+        "packagesPath": "C:\\Users\\Maciek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maciek\\source\\serializacja_NoSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maciek\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.10.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
